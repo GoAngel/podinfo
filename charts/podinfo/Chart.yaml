@@ -11,4 +11,3 @@ maintainers:
 sources:
 - https://github.com/stefanprodan/podinfo
 kubeVersion: ">=1.23.0-0"
-
